@@ -1,5 +1,5 @@
-#'stache-lag
-###A code challenge. Impress us!
+# stache-lag
+### A code challenge. Impress us!
 
 This JS script loads binary data from races tracked by YB Tracking.  The data includes the time, position and distance-to-finish for each team during the race.
 
@@ -9,12 +9,12 @@ You’ve all the data you need to calculate speed/direction of the teams, feel f
 
 We *don't* expect a finished product - but we *do* expect great user experience.  When you're done, upload it to github and send us a link to your project.
 
-###Usage
+### Usage
 
 You need to call `R7.load()`, supplying an eventName and some callback functions.
 
 You can use these events:
 
-- `c6002016`
+- `c6002018`
 - `arc2015`
 - `fastnet2015`
